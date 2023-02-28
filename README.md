@@ -1,15 +1,15 @@
 #                                                                    
 
 <p align="center">
-<a href="https://twitter.com/1337kro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kro" height="20" width="20" /></a>
-<a href="https://t.me/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="kro" height="20" width="20" /></a>
-<a href="(https://www.youtube.com/@0day362" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="kro" height="20" width="20" /></a>
+<a href="https://twitter.com/cmd_sh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="wh6" height="20" width="20" /></a>
+<a href="https://t.me/cmd_sh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="wh6" height="20" width="20" /></a>
+<a href="(https://www.youtube.com/@whodied6665" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="wh6" height="20" width="20" /></a>
 </p>
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/474x/f9/92/86/f992861210f517b651b7d0655d13a287.jpg"/>
 
 <p align="center">Hello, My name is WhoDied666, Im just someone Who lost his real life (-_-) .</p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kro0oz" alt="maykbrito" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=WhoDied666" alt="maykbrito" /> </p>
 
 
 #                                                                    *Languages and tools*
@@ -33,4 +33,4 @@
 #                                                                     *STATS*
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kro0oz&show_icons=true&theme=dark)](https://github.com/extimative/github-readme-stats) ] ![Top Langs](https://github-readme-stats.vercel.app/api?username=kro0oz&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhoDied666&show_icons=true&theme=dark)](https://github.com/extimative/github-readme-stats) ] ![Top Langs](https://github-readme-stats.vercel.app/api?username=WhoDied666&show_icons=true&theme=dark)
