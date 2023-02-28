@@ -6,7 +6,7 @@
 <a href="(https://www.youtube.com/@whodied6665" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="wh6" height="20" width="20" /></a>
 </p>
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/564x/07/33/75/073375715e4f10c02cfadfed75db8c7f.jpg"/>
+<img align="right" alt="GIF" src="https://i.pinimg.com/564x/04/95/3c/04953cec39bba5766fb3f522a129503f.jpg"/>
 
 <p align="center">Hello, My name is WhoDied666, Im just someone Who lost his real life (-_-) .</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=WhoDied666" alt="maykbrito" /> </p>
