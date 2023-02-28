@@ -15,11 +15,9 @@
 #                                                                    *Languages and tools*
 
 ![Python](https://img.shields.io/badge/-Python-E34F26?style=for-the-badge&logo=Python&logoColor=fff)
-![perl](https://img.shields.io/badge/-perl-1572B6?style=for-the-badge&logo=perl&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=fff)
 ![php](https://img.shields.io/badge/-php-3178C6?style=for-the-badge&logo=php&logoColor=fff)
 ![ruby](https://img.shields.io/badge/-ruby-339933?style=for-the-badge&logo=ruby&logoColor=fff)
-![c++](https://img.shields.io/badge/-c++-1572B6?style=for-the-badge&logo=c++&logoColor=fff)
 
 ### Tools
 
