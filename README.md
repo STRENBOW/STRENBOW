@@ -7,7 +7,7 @@
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/564x/04/95/3c/04953cec39bba5766fb3f522a129503f.jpg"/>
 
-<p align="center">Hello, My name is WhoDied666, Im just someone Who lost his real life (-_-) .</p>
+<p align="center">Hello, My name is STRENBOW, Im just someone Who lost his real life (-_-) .</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=STRENBOW" alt="maykbrito" /> </p>
 
 
