@@ -32,4 +32,4 @@
 #                                                                     *STATS*
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=STRENBOW&show_icons=true&theme=dark)](https://github.com/extimative/github-readme-stats)  ![Top Langs](https://github-readme-stats.vercel.app/api?username=WhoDied666&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=STRENBOW&show_icons=true&theme=dark)](https://github.com/extimative/github-readme-stats)  ![Top Langs](https://github-readme-stats.vercel.app/api?username=STRENBOW&show_icons=true&theme=dark)
