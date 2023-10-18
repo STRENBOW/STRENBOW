@@ -2,14 +2,13 @@
 
 <p align="center">
 <a href="https://twitter.com/cmd_sh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="wh6" height="20" width="20" /></a>
-<a href="https://t.me/cmd_sh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="wh6" height="20" width="20" /></a>
-<a href="(https://www.youtube.com/@whodied6665" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="wh6" height="20" width="20" /></a>
+<a href="(https://www.youtube.com/@ىعم" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="wh6" height="20" width="20" /></a>
 </p>
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/564x/04/95/3c/04953cec39bba5766fb3f522a129503f.jpg"/>
 
 <p align="center">Hello, My name is WhoDied666, Im just someone Who lost his real life (-_-) .</p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=WhoDied666" alt="maykbrito" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=STRENBOW" alt="maykbrito" /> </p>
 
 
 #                                                                    *Languages and tools*
@@ -33,4 +32,4 @@
 #                                                                     *STATS*
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhoDied666&show_icons=true&theme=dark)](https://github.com/extimative/github-readme-stats)  ![Top Langs](https://github-readme-stats.vercel.app/api?username=WhoDied666&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=STRENBOW&show_icons=true&theme=dark)](https://github.com/extimative/github-readme-stats)  ![Top Langs](https://github-readme-stats.vercel.app/api?username=WhoDied666&show_icons=true&theme=dark)
