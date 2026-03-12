@@ -1,8 +1,7 @@
 #                                                                    
 
 <p align="center">
-<a href="https://twitter.com/cmd_sh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="wh6" height="20" width="20" /></a>
-<a href="(https://www.youtube.com/@ىعم" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="wh6" height="20" width="20" /></a>
+<a href="https://twitter.com/0xSTRENBOW" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="wh6" height="20" width="20" /></a>
 </p>
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/564x/04/95/3c/04953cec39bba5766fb3f522a129503f.jpg"/>
